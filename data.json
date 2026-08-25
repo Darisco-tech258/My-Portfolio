@@ -1,0 +1,63 @@
+{
+  "site": {
+    "name": "Kayode Joash Daramola Portfolio",
+    "title": "Kayode Joash Daramola \u2014 Future Computer Engineer",
+    "description": "Personal portfolio website for Kayode Joash Daramola.",
+    "font": "Arial",
+    "technology": [
+      "HTML5",
+      "CSS3",
+      "JSON-LD"
+    ],
+    "javascript": false
+  },
+  "person": {
+    "name": "Kayode Joash Daramola",
+    "careerGoal": "Future Computer Engineer",
+    "email": "kayodejoash222@gmail.com",
+    "phone": "08111791792",
+    "education": [
+      {
+        "qualification": "B.Eng Computer Engineering",
+        "period": "2021-present"
+      },
+      {
+        "qualification": "Diploma in Computer System Engineering",
+        "institution": "IIAC"
+      },
+      {
+        "qualification": "Secondary Education",
+        "institution": "Government Secondary School, Gwagwalada-FCT",
+        "period": "2011-2017"
+      }
+    ],
+    "technicalSkills": [
+      "Embedded System Design",
+      "Website Design",
+      "Product Design",
+      "Graphic Design"
+    ],
+    "projects": [
+      "AI-Based Smart Real-Time Fire and Smoke Detection and Alert System",
+      "Smart Blindman Walking Stick",
+      "Password-Based Door Lock System"
+    ],
+    "hobbiesAndInterests": [
+      "Chess",
+      "Football",
+      "Cycling",
+      "Watching cybersecurity films",
+      "Travelling"
+    ]
+  },
+  "pages": [
+    "index.html",
+    "about.html",
+    "education.html",
+    "skills.html",
+    "projects.html",
+    "hobbies.html",
+    "cv.html",
+    "contact.html"
+  ]
+}
